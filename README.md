@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying at Bay view high school
 - 🌱 I’m currently learning python and javascript
-- 📫 How to reach me: Some over the rainbow
+- 📫 How to reach me: Canada
 
 
 
