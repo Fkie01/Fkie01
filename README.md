@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying at Bay view high school
-- 🌱 I’m currently learning python and javascript
-- 📫 How to reach me: Canada
+- 🔭 I’m currently studying at Mdhidol university international college major in computer science 
+- 🌱 I’m currently learning python, C, Java
+
 
 
 
