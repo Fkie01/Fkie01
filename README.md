@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying at Mdhidol university international college major in computer science 
-- 🌱 I’m currently learning python, C, Java
+- 🌱 I’m currently learning python, C, Java, vuejs, nextjs
 
 
 
